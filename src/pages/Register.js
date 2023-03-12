@@ -93,7 +93,15 @@ const Register = () => {
         <button className="btn btn-block" type="submit">
           submit
         </button>
-        <button className="btn btn-block btn-hipster" type="button">
+        <button
+          className="btn btn-block btn-hipster"
+          type="button"
+          onClick={() =>
+            dispatch(
+              loginUser({ email: "testUser@test.com", password: "secret" })
+            )
+          }
+        >
           demo app
         </button>
         <p>
