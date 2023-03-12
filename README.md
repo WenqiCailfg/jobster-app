@@ -4,6 +4,9 @@ Jobster is an application for job seekers to search and track their job applicat
 
 <img src="src/doc/landing image.jpg">
 
+<p>
+  <a href="https://singular-belekoy-728a2f.netlify.app/">Live Preview</a>
+</p>
 ## Features
 - Be able to login and register to see your own applications.
 - Search job applications by different categories (job type, status...).
