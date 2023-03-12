@@ -2,6 +2,8 @@
 
 Jobster is an application for job seekers to search and track their job applications developed with `React`,`Redux`. It provides features such as user registration, adding, deleting, and editing job applications, and tracking their progress. In addition, the tool provides line and area charts to visualize the change of job applications on a monthly basis. 
 
+<img src="src/doc/landing image.jpg">
+
 ## Features
 - Be able to login and register to see your own applications.
 - Search job applications by different categories (job type, status...).
